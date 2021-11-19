@@ -149,6 +149,6 @@ love('red')
 pen.up()
 pen.left(170)
 pen.forward(80)
-pen.write("Can We?", font=('Arial', 14, 'bold'))
+pen.write("soooomuchhh <3", font=('Arial', 14, 'bold'))
 
 pen.screen.exitonclick()  # shows the graphics untill we exit
